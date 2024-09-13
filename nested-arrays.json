@@ -1,0 +1,102 @@
+[
+    {
+        "level1": {
+            "name": "Object 1",
+            "level2": {
+                "name": "Sub Object 1.1",
+                "level3": [
+                    {
+                        "name": "Sub Object 1.1.1",
+                        "level4": [
+                            {
+                                "id": 1,
+                                "details": "Deepest Object 1.1.1.1",
+                                "data": [
+                                    {
+                                        "value": 1
+                                    },
+                                    {
+                                        "value": 2
+                                    },
+                                    {
+                                        "value": 3
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sub Object 1.1.2",
+                        "level4": [
+                            {
+                                "id": 2,
+                                "details": "Deepest Object 1.1.2.1",
+                                "data": [
+                                    {
+                                        "value": 4
+                                    },
+                                    {
+                                        "value": 5
+                                    },
+                                    {
+                                        "value": 6
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "level1": {
+            "name": "Object 2",
+            "level2": {
+                "name": "Sub Object 2.1",
+                "level3": [
+                    {
+                        "name": "Sub Object 2.1.1",
+                        "level4": [
+                            {
+                                "id": 3,
+                                "details": "Deepest Object 2.1.1.1",
+                                "data": [
+                                    {
+                                        "value": 7
+                                    },
+                                    {
+                                        "value": 8
+                                    },
+                                    {
+                                        "value": 9
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sub Object 2.1.2",
+                        "level4": [
+                            {
+                                "id": 4,
+                                "details": "Deepest Object 2.1.2.1",
+                                "data": [
+                                    {
+                                        "value": 10
+                                    },
+                                    {
+                                        "value": 11
+                                    },
+                                    {
+                                        "value": 12
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+]
