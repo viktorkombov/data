@@ -1,97 +1,159 @@
 [
   {
-    "name": "Object 1",
-    "number": 100,
     "level1": [
       {
-        "name": "Sub Object 1.1",
-        "number": 200,
-        "level2": {
-          "name": "Sub Object 1.1.1",
-          "number": 300,
-          "level3": [
-            {
-              "name": "Sub Object 1.1.1.1",
-              "number": 400,
-              "level4": [
-                {
-                  "id": 1,
-                  "details": "Deepest Object 1.1.1.1.1",
-                  "number": 500,
-                  "data": [
-                    { "value": 1 },
-                    { "value": 2 },
-                    { "value": 3 }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Sub Object 1.1.1.2",
-              "number": 401,
-              "level4": [
-                {
-                  "id": 2,
-                  "details": "Deepest Object 1.1.1.2.1",
-                  "number": 501,
-                  "data": [
-                    { "value": 4 },
-                    { "value": 5 },
-                    { "value": 6 }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "name": "Object 2",
-    "number": 101,
-    "level1": [
-      {
-        "name": "Sub Object 2.1",
-        "number": 201,
-        "level2": {
-          "name": "Sub Object 2.1.1",
-          "number": 301,
-          "level3": [
-            {
-              "name": "Sub Object 2.1.1.1",
-              "number": 401,
-              "level4": [
-                {
-                  "id": 3,
-                  "details": "Deepest Object 2.1.1.1.1",
-                  "number": 501,
-                  "data": [
-                    { "value": 7 },
-                    { "value": 8 },
-                    { "value": 9 }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Sub Object 2.1.1.2",
-              "number": 402,
-              "level4": [
-                {
-                  "id": 4,
-                  "details": "Deepest Object 2.1.1.2.1",
-                  "number": 502,
-                  "data": [
-                    { "value": 10 },
-                    { "value": 11 },
-                    { "value": 12 }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
+        "id": 1,
+        "name": "Object 1",
+        "level2": [
+          {
+            "id": 101,
+            "description": "Level 2 Object 1",
+            "level3": [
+              {
+                "id": 201,
+                "title": "Level 3 Object 1",
+                "level4": [
+                  {
+                    "id": 301,
+                    "note": "Level 4 Object 1",
+                    "level5": [
+                      {
+                        "id": 401,
+                        "comment": "Level 5 Object 1"
+                      },
+                      {
+                        "id": 402,
+                        "comment": "Level 5 Object 2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 302,
+                    "note": "Level 4 Object 2",
+                    "level5": [
+                      {
+                        "id": 403,
+                        "comment": "Level 5 Object 3"
+                      },
+                      {
+                        "id": 404,
+                        "comment": "Level 5 Object 4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 202,
+                "title": "Level 3 Object 2",
+                "level4": [
+                  {
+                    "id": 303,
+                    "note": "Level 4 Object 3",
+                    "level5": [
+                      {
+                        "id": 405,
+                        "comment": "Level 5 Object 5"
+                      },
+                      {
+                        "id": 406,
+                        "comment": "Level 5 Object 6"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 304,
+                    "note": "Level 4 Object 4",
+                    "level5": [
+                      {
+                        "id": 407,
+                        "comment": "Level 5 Object 7"
+                      },
+                      {
+                        "id": 408,
+                        "comment": "Level 5 Object 8"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "description": "Level 2 Object 2",
+            "level3": [
+              {
+                "id": 203,
+                "title": "Level 3 Object 3",
+                "level4": [
+                  {
+                    "id": 305,
+                    "note": "Level 4 Object 5",
+                    "level5": [
+                      {
+                        "id": 409,
+                        "comment": "Level 5 Object 9"
+                      },
+                      {
+                        "id": 410,
+                        "comment": "Level 5 Object 10"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 306,
+                    "note": "Level 4 Object 6",
+                    "level5": [
+                      {
+                        "id": 411,
+                        "comment": "Level 5 Object 11"
+                      },
+                      {
+                        "id": 412,
+                        "comment": "Level 5 Object 12"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 204,
+                "title": "Level 3 Object 4",
+                "level4": [
+                  {
+                    "id": 307,
+                    "note": "Level 4 Object 7",
+                    "level5": [
+                      {
+                        "id": 413,
+                        "comment": "Level 5 Object 13"
+                      },
+                      {
+                        "id": 414,
+                        "comment": "Level 5 Object 14"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 308,
+                    "note": "Level 4 Object 8",
+                    "level5": [
+                      {
+                        "id": 415,
+                        "comment": "Level 5 Object 15"
+                      },
+                      {
+                        "id": 416,
+                        "comment": "Level 5 Object 16"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }
