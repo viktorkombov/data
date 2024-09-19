@@ -1,0 +1,286 @@
+[
+  {
+    "level1_string": "This is level 1 - Record 1",
+    "level1_number": 1,
+    "level1_array": [
+      {
+        "level2_string": "This is level 2 - Record 1",
+        "level2_number": 2,
+        "level2_array": [
+          {
+            "level3_string": "This is level 3 - Record 1",
+            "level3_number": 3,
+            "level3_array": [
+              {
+                "level4_string": "This is level 4 - Record 1",
+                "level4_number": 4,
+                "level4_array": [
+                  {
+                    "level5_string": "This is level 5 - Record 1",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 2",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 3",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 4",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 5",
+                    "level5_number": 5
+                  }
+                ]
+              },
+              {
+                "level4_string": "This is level 4 - Record 2",
+                "level4_number": 4,
+                "level4_array": [
+                  {
+                    "level5_string": "This is level 5 - Record 1",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 2",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 3",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 4",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 5",
+                    "level5_number": 5
+                  }
+                ]
+              },
+              {
+                "level4_string": "This is level 4 - Record 3",
+                "level4_number": 4,
+                "level4_array": [
+                  {
+                    "level5_string": "This is level 5 - Record 1",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 2",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 3",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 4",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 5",
+                    "level5_number": 5
+                  }
+                ]
+              },
+              {
+                "level4_string": "This is level 4 - Record 4",
+                "level4_number": 4,
+                "level4_array": [
+                  {
+                    "level5_string": "This is level 5 - Record 1",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 2",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 3",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 4",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 5",
+                    "level5_number": 5
+                  }
+                ]
+              },
+              {
+                "level4_string": "This is level 4 - Record 5",
+                "level4_number": 4,
+                "level4_array": [
+                  {
+                    "level5_string": "This is level 5 - Record 1",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 2",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 3",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 4",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 5",
+                    "level5_number": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level3_string": "This is level 3 - Record 2",
+            "level3_number": 3,
+            "level3_array": [
+              {
+                "level4_string": "This is level 4 - Record 1",
+                "level4_number": 4,
+                "level4_array": [
+                  {
+                    "level5_string": "This is level 5 - Record 1",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 2",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 3",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 4",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 5",
+                    "level5_number": 5
+                  }
+                ]
+              },
+              {
+                "level4_string": "This is level 4 - Record 2",
+                "level4_number": 4,
+                "level4_array": [
+                  {
+                    "level5_string": "This is level 5 - Record 1",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 2",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 3",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 4",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 5",
+                    "level5_number": 5
+                  }
+                ]
+              },
+              {
+                "level4_string": "This is level 4 - Record 3",
+                "level4_number": 4,
+                "level4_array": [
+                  {
+                    "level5_string": "This is level 5 - Record 1",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 2",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 3",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 4",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 5",
+                    "level5_number": 5
+                  }
+                ]
+              },
+              {
+                "level4_string": "This is level 4 - Record 4",
+                "level4_number": 4,
+                "level4_array": [
+                  {
+                    "level5_string": "This is level 5 - Record 1",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 2",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 3",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 4",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 5",
+                    "level5_number": 5
+                  }
+                ]
+              },
+              {
+                "level4_string": "This is level 4 - Record 5",
+                "level4_number": 4,
+                "level4_array": [
+                  {
+                    "level5_string": "This is level 5 - Record 1",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 2",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 3",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 4",
+                    "level5_number": 5
+                  },
+                  {
+                    "level5_string": "This is level 5 - Record 5",
+                    "level5_number": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
