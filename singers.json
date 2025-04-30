@@ -1,0 +1,1940 @@
+{
+    "Singers": [
+        {
+            "ID": 0,
+            "Artist": "Naomí Yepes",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/naomi.jpg",
+            "Debut": 2011,
+            "GrammyNominations": 6,
+            "GrammyAwards": 0,
+            "HasGrammyAward": false,
+            "Tours": [
+                {
+                    "Tour": "Faithful Tour",
+                    "StartedOn": "Sep 12",
+                    "Location": "Worldwide",
+                    "Headliner": "NO",
+                    "TouredBy": "Naomí Yepes"
+                },
+                {
+                    "Tour": "City Jam Sessions",
+                    "StartedOn": "Aug 13",
+                    "Location": "North America",
+                    "Headliner": "YES",
+                    "TouredBy": "Naomí Yepes"
+                },
+                {
+                    "Tour": "Christmas NYC 2013",
+                    "StartedOn": "Dec 13",
+                    "Location": "United States",
+                    "Headliner": "NO",
+                    "TouredBy": "Naomí Yepes"
+                },
+                {
+                    "Tour": "Christmas NYC 2014",
+                    "StartedOn": "Dec 14",
+                    "Location": "North America",
+                    "Headliner": "NO",
+                    "TouredBy": "Naomí Yepes"
+                },
+                {
+                    "Tour": "Watermelon Tour",
+                    "StartedOn": "Feb 15",
+                    "Location": "Worldwide",
+                    "Headliner": "YES",
+                    "TouredBy": "Naomí Yepes"
+                },
+                {
+                    "Tour": "Christmas NYC 2016",
+                    "StartedOn": "Dec 16",
+                    "Location": "United States",
+                    "Headliner": "NO",
+                    "TouredBy": "Naomí Yepes"
+                },
+                {
+                    "Tour": "The Dragon Tour",
+                    "StartedOn": "Feb 17",
+                    "Location": "Worldwide",
+                    "Headliner": "NO",
+                    "TouredBy": "Naomí Yepes"
+                },
+                {
+                    "Tour": "Organic Sessions",
+                    "StartedOn": "Aug 18",
+                    "Location": "United States, England",
+                    "Headliner": "YES",
+                    "TouredBy": "Naomí Yepes"
+                },
+                {
+                    "Tour": "Hope World Tour",
+                    "StartedOn": "Mar 19",
+                    "Location": "Worldwide",
+                    "Headliner": "NO",
+                    "TouredBy": "Naomí Yepes"
+                }
+            ],
+            "Albums": [
+                {
+                    "Album": "Initiation",
+                    "LaunchDate": "2013-09-02T21:00:00.000Z",
+                    "BillboardReview": 86,
+                    "USBillboard200": 1,
+                    "Artist": "Naomí Yepes",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Ambitious",
+                            "Released": "2015-04-27T21:00:00.000Z",
+                            "Genre": "Dance-pop R&B",
+                            "Album": "Initiation"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "My heart will go on",
+                            "Released": "2015-05-23T21:00:00.000Z",
+                            "Genre": "Dance-pop R&B",
+                            "Album": "Initiation"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Sing to me",
+                            "Released": "2015-05-27T21:00:00.000Z",
+                            "Genre": "Dance-pop R&B",
+                            "Album": "Initiation"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Want to dance with somebody",
+                            "Released": "2015-06-02T21:00:00.000Z",
+                            "Genre": "Dance-pop R&B",
+                            "Album": "Initiation"
+                        }
+                    ]
+                },
+                {
+                    "Album": "Dream Driven",
+                    "LaunchDate": "2014-08-24T21:00:00.000Z",
+                    "BillboardReview": 81,
+                    "USBillboard200": 1,
+                    "Artist": "Naomí Yepes",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Intro",
+                            "Released": null,
+                            "Genre": "*",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Ferocious",
+                            "Released": "2014-04-27T21:00:00.000Z",
+                            "Genre": "Dance-pop R&B",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Going crazy",
+                            "Released": "2015-02-09T22:00:00.000Z",
+                            "Genre": "Dance-pop EDM",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Future past",
+                            "Released": null,
+                            "Genre": "*",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Roaming like them",
+                            "Released": "2014-07-01T21:00:00.000Z",
+                            "Genre": "Electro house Electropop",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "Last Wishes",
+                            "Released": "2014-08-11T21:00:00.000Z",
+                            "Genre": "R&B",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 7,
+                            "Title": "Stay where you are",
+                            "Released": null,
+                            "Genre": "*",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 8,
+                            "Title": "Imaginarium",
+                            "Released": null,
+                            "Genre": "*",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 9,
+                            "Title": "Tell me",
+                            "Released": "2014-09-29T21:00:00.000Z",
+                            "Genre": "Synth-pop R&B",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 10,
+                            "Title": "Shredded into pieces",
+                            "Released": null,
+                            "Genre": "*",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 11,
+                            "Title": "Capture this moment",
+                            "Released": null,
+                            "Genre": "*",
+                            "Album": "Dream Driven"
+                        },
+                        {
+                            "Number": 12,
+                            "Title": "Dream Driven",
+                            "Released": null,
+                            "Genre": "*",
+                            "Album": "Dream Driven"
+                        }
+                    ]
+                },
+                {
+                    "Album": "The dragon journey",
+                    "LaunchDate": "2016-05-19T21:00:00.000Z",
+                    "BillboardReview": 60,
+                    "USBillboard200": 2,
+                    "Artist": "Naomí Yepes",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "My dream",
+                            "Released": "2017-01-12T22:00:00.000Z",
+                            "Genre": "Dance-pop EDM",
+                            "Album": "The dragon journey"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "My passion",
+                            "Released": "2017-09-22T21:00:00.000Z",
+                            "Genre": "Crunk reggaeton",
+                            "Album": "The dragon journey"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "What is love",
+                            "Released": "2018-11-27T22:00:00.000Z",
+                            "Genre": "Dance-pop R&B",
+                            "Album": "The dragon journey"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Negative",
+                            "Released": "2018-11-30T22:00:00.000Z",
+                            "Genre": "Dance-pop EDM",
+                            "Album": "The dragon journey"
+                        }
+                    ]
+                },
+                {
+                    "Album": "Organic me",
+                    "LaunchDate": "2018-08-16T21:00:00.000Z",
+                    "BillboardReview": 82,
+                    "USBillboard200": 1,
+                    "Artist": "Naomí Yepes",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "I Love",
+                            "Released": "2019-05-10T21:00:00.000Z",
+                            "Genre": "Crunk reggaeton",
+                            "Album": "Organic me"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Early Morning Compass",
+                            "Released": "2020-01-14T22:00:00.000Z",
+                            "Genre": "mystical parody-bap ",
+                            "Album": "Organic me"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Key Fields Forever",
+                            "Released": "2020-01-01T22:00:00.000Z",
+                            "Genre": "Dance-pop EDM",
+                            "Album": "Organic me"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Stand by Your Goblins",
+                            "Released": "2019-11-19T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Organic me"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Mad to Walk",
+                            "Released": "2019-05-11T21:00:00.000Z",
+                            "Genre": "Electro house Electropop",
+                            "Album": "Organic me"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "Alice's Waiting",
+                            "Released": "2020-01-27T22:00:00.000Z",
+                            "Genre": "R&B",
+                            "Album": "Organic me"
+                        },
+                        {
+                            "Number": 7,
+                            "Title": "We Shall Kiss",
+                            "Released": "2019-10-29T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Organic me"
+                        },
+                        {
+                            "Number": 8,
+                            "Title": "Behind Single Ants",
+                            "Released": "2019-10-01T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Organic me"
+                        },
+                        {
+                            "Number": 9,
+                            "Title": "Soap Autopsy",
+                            "Released": "2019-08-07T21:00:00.000Z",
+                            "Genre": "Synth-pop R&B",
+                            "Album": "Organic me"
+                        },
+                        {
+                            "Number": 10,
+                            "Title": "Have You Met Rich?",
+                            "Released": "2019-06-30T21:00:00.000Z",
+                            "Genre": "ethno-tunes",
+                            "Album": "Organic me"
+                        },
+                        {
+                            "Number": 11,
+                            "Title": "Livin' on a Banana",
+                            "Released": "2019-11-21T22:00:00.000Z",
+                            "Genre": "Crunk reggaeton",
+                            "Album": "Organic me"
+                        }
+                    ]
+                },
+                {
+                    "Album": "Curiosity",
+                    "LaunchDate": "2019-12-06T22:00:00.000Z",
+                    "BillboardReview": 75,
+                    "USBillboard200": 12,
+                    "Artist": "Naomí Yepes",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Goals",
+                            "Released": "2019-12-06T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Curiosity"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Explorer",
+                            "Released": "2019-12-07T22:00:00.000Z",
+                            "Genre": "Crunk reggaeton",
+                            "Album": "Curiosity"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "I need to know",
+                            "Released": "2019-12-08T22:00:00.000Z",
+                            "Genre": "Dance-pop R&B",
+                            "Album": "Curiosity"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Finding my purpose",
+                            "Released": "2019-12-09T22:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Curiosity"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Faster than the speed of love",
+                            "Released": "2019-12-20T22:00:00.000Z",
+                            "Genre": "Dance-pop EDM",
+                            "Album": "Curiosity"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "I like it",
+                            "Released": "2019-12-31T22:00:00.000Z",
+                            "Genre": "Dance-pop EDM",
+                            "Album": "Curiosity"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "Artist": "Babila Ebwélé",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/babila.jpg",
+            "Debut": 2009,
+            "GrammyNominations": 0,
+            "GrammyAwards": 11,
+            "HasGrammyAward": true,
+            "Tours": [
+                {
+                    "Tour": "The last straw",
+                    "StartedOn": "May 09",
+                    "Location": "Europe, Asia",
+                    "Headliner": "NO",
+                    "TouredBy": "Babila Ebwélé"
+                },
+                {
+                    "Tour": "No foundations",
+                    "StartedOn": "Jun 04",
+                    "Location": "United States, Europe",
+                    "Headliner": "YES",
+                    "TouredBy": "Babila Ebwélé"
+                },
+                {
+                    "Tour": "Crazy eyes",
+                    "StartedOn": "Jun 08",
+                    "Location": "North America",
+                    "Headliner": "NO",
+                    "TouredBy": "Babila Ebwélé"
+                },
+                {
+                    "Tour": "Zero gravity",
+                    "StartedOn": "Apr 19",
+                    "Location": "United States",
+                    "Headliner": "NO",
+                    "TouredBy": "Babila Ebwélé"
+                },
+                {
+                    "Tour": "Battle with myself",
+                    "StartedOn": "Mar 08",
+                    "Location": "North America",
+                    "Headliner": "YES",
+                    "TouredBy": "Babila Ebwélé"
+                }
+            ],
+            "Albums": [
+                {
+                    "Album": "Pushing up daisies",
+                    "LaunchDate": "2000-05-30T21:00:00.000Z",
+                    "BillboardReview": 86,
+                    "USBillboard200": 42,
+                    "Artist": "Babila Ebwélé",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Wood Shavings Forever",
+                            "Released": "2019-06-08T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Early Morning Drive",
+                            "Released": "2019-05-19T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Don't Natter",
+                            "Released": "2019-06-09T21:00:00.000Z",
+                            "Genre": "adult calypso-industrial",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Stairway to Balloons",
+                            "Released": "2019-06-17T21:00:00.000Z",
+                            "Genre": "calypso and mariachi",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "The Number of your Apple",
+                            "Released": "2019-10-28T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "Your Delightful Heart",
+                            "Released": "2019-02-23T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 7,
+                            "Title": "Nice Weather For Balloons",
+                            "Released": "2019-07-31T21:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 8,
+                            "Title": "The Girl From Cornwall",
+                            "Released": "2019-05-03T21:00:00.000Z",
+                            "Genre": "enigmatic rock-and-roll",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 9,
+                            "Title": "Here Without Jack",
+                            "Released": "2019-10-23T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 10,
+                            "Title": "Born Rancid",
+                            "Released": "2019-03-18T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Pushing up daisies"
+                        }
+                    ]
+                },
+                {
+                    "Album": "Death's dead",
+                    "LaunchDate": "2016-06-07T21:00:00.000Z",
+                    "BillboardReview": 85,
+                    "USBillboard200": 95,
+                    "Artist": "Babila Ebwélé",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Men Sound Better With You",
+                            "Released": "2016-10-19T21:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Death's dead"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Ghost in My Rod",
+                            "Released": "2016-10-04T21:00:00.000Z",
+                            "Genre": "enigmatic rock-and-roll",
+                            "Album": "Death's dead"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Bed of Men",
+                            "Released": "2016-11-13T22:00:00.000Z",
+                            "Genre": "whimsical comedy-grass ",
+                            "Album": "Death's dead"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Don't Push",
+                            "Released": "2017-01-01T22:00:00.000Z",
+                            "Genre": "unblack electronic-trip-hop",
+                            "Album": "Death's dead"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Nice Weather For Men",
+                            "Released": "2017-12-17T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Death's dead"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "Rancid Rhapsody",
+                            "Released": "2017-03-09T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Death's dead"
+                        },
+                        {
+                            "Number": 7,
+                            "Title": "Push, Push, Push!",
+                            "Released": "2017-02-20T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Death's dead"
+                        },
+                        {
+                            "Number": 8,
+                            "Title": "My Name is Sarah",
+                            "Released": "2017-11-14T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Death's dead"
+                        },
+                        {
+                            "Number": 9,
+                            "Title": "The Girl From My Hotel",
+                            "Released": "2017-11-05T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Death's dead"
+                        },
+                        {
+                            "Number": 10,
+                            "Title": "Free Box",
+                            "Released": "2017-04-17T21:00:00.000Z",
+                            "Genre": "splitter-funk",
+                            "Album": "Death's dead"
+                        },
+                        {
+                            "Number": 11,
+                            "Title": "Hotel Cardiff",
+                            "Released": "2017-12-29T22:00:00.000Z",
+                            "Genre": "guilty pleasure ebm",
+                            "Album": "Death's dead"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 2,
+            "Artist": "Ahmad Nazeri",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/ahmad.jpg",
+            "Debut": 2004,
+            "GrammyNominations": 3,
+            "GrammyAwards": 1,
+            "HasGrammyAward": true,
+            "Tours": [],
+            "Albums": [
+                {
+                    "Album": "Emergency",
+                    "LaunchDate": "2004-03-05T22:00:00.000Z",
+                    "BillboardReview": 98,
+                    "USBillboard200": 69,
+                    "Artist": "Ahmad Nazeri",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "I am machine",
+                            "Released": "2004-10-19T21:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Emergency"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "I wish I knew",
+                            "Released": "2004-10-20T21:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Emergency"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "How I feel",
+                            "Released": "2004-10-21T21:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Emergency"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "I am machine",
+                            "Released": "2004-10-29T21:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Emergency"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Monsters under my bed",
+                            "Released": "2004-10-31T22:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Emergency"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "I know what you want",
+                            "Released": "2004-11-19T22:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Emergency"
+                        },
+                        {
+                            "Number": 7,
+                            "Title": "Lies",
+                            "Released": "2004-11-20T22:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Emergency"
+                        },
+                        {
+                            "Number": 8,
+                            "Title": "I did it for you",
+                            "Released": "2004-11-21T22:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Emergency"
+                        }
+                    ]
+                },
+                {
+                    "Album": "Bursting bubbles",
+                    "LaunchDate": "2006-04-16T21:00:00.000Z",
+                    "BillboardReview": 69,
+                    "USBillboard200": 39,
+                    "Artist": "Ahmad Nazeri",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Ghosts",
+                            "Released": "2006-04-19T21:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Bursting bubbles"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "What goes around comes around",
+                            "Released": "2006-04-19T21:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Bursting bubbles"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "I want nothing",
+                            "Released": "2006-04-20T21:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Bursting bubbles"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Me and you",
+                            "Released": "2006-04-21T21:00:00.000Z",
+                            "Genre": "Rock",
+                            "Album": "Bursting bubbles"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 3,
+            "Artist": "Kimmy McIlmorie",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/kimmy.jpg",
+            "Debut": 2007,
+            "GrammyNominations": 21,
+            "GrammyAwards": 3,
+            "HasGrammyAward": true,
+            "Albums": [
+                {
+                    "Album": "Here we go again",
+                    "LaunchDate": "2017-11-17T22:00:00.000Z",
+                    "BillboardReview": 68,
+                    "USBillboard200": 1,
+                    "Artist": "Kimmy McIlmorie",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Same old love",
+                            "Released": "2017-11-19T22:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Here we go again"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Sick of it",
+                            "Released": "2017-11-19T22:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Here we go again"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "No one",
+                            "Released": "2017-11-20T22:00:00.000Z",
+                            "Genre": "Metal",
+                            "Album": "Here we go again"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Circles",
+                            "Released": "2017-11-21T22:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Here we go again"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Coming for you",
+                            "Released": "2017-11-29T22:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Here we go again"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 4,
+            "Artist": "Mar Rueda",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/mar.jpg",
+            "Debut": 1996,
+            "GrammyNominations": 14,
+            "GrammyAwards": 2,
+            "HasGrammyAward": true,
+            "Albums": [
+                {
+                    "Album": "Trouble",
+                    "LaunchDate": "2017-11-17T22:00:00.000Z",
+                    "BillboardReview": 65,
+                    "USBillboard200": 2,
+                    "Artist": "Mar Rueda",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "You knew I was trouble",
+                            "Released": "2017-11-19T22:00:00.000Z",
+                            "Genre": "Pop",
+                            "Album": "Trouble"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Cannot live without you",
+                            "Released": "2017-11-19T22:00:00.000Z",
+                            "Genre": "Pop",
+                            "Album": "Trouble"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Lost you",
+                            "Released": "2017-11-20T22:00:00.000Z",
+                            "Genre": "Metal",
+                            "Album": "Trouble"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Happiness starts with you",
+                            "Released": "2017-11-21T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Trouble"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "I saw it coming",
+                            "Released": "2017-12-29T22:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Trouble"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 5,
+            "Artist": "Izabella Tabakova",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/izabella.jpg",
+            "Debut": 2017,
+            "GrammyNominations": 7,
+            "GrammyAwards": 11,
+            "HasGrammyAward": true,
+            "Tours": [
+                {
+                    "Tour": "Final breath",
+                    "StartedOn": "Jun 13",
+                    "Location": "Europe",
+                    "Headliner": "YES",
+                    "TouredBy": "Izabella Tabakova"
+                },
+                {
+                    "Tour": "Once bitten",
+                    "StartedOn": "Dec 18",
+                    "Location": "Australia, United States",
+                    "Headliner": "NO",
+                    "TouredBy": "Izabella Tabakova"
+                },
+                {
+                    "Tour": "Code word",
+                    "StartedOn": "Sep 19",
+                    "Location": "United States, Europe",
+                    "Headliner": "NO",
+                    "TouredBy": "Izabella Tabakova"
+                },
+                {
+                    "Tour": "Final draft",
+                    "StartedOn": "Sep 17",
+                    "Location": "United States, Europe",
+                    "Headliner": "YES",
+                    "TouredBy": "Izabella Tabakova"
+                }
+            ],
+            "Albums": [
+                {
+                    "Album": "Once bitten",
+                    "LaunchDate": "2007-07-15T21:00:00.000Z",
+                    "BillboardReview": 79,
+                    "USBillboard200": 53,
+                    "Artist": "Izabella Tabakova",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Whole Lotta Super Cats",
+                            "Released": "2019-05-20T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Once bitten"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Enter Becky",
+                            "Released": "2020-01-15T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Once bitten"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Your Cheatin' Flamingo",
+                            "Released": "2020-01-13T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Once bitten"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Mad to Kiss",
+                            "Released": "2019-11-05T22:00:00.000Z",
+                            "Genre": "Synth-pop R&B",
+                            "Album": "Once bitten"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Hotel Prague",
+                            "Released": "2019-10-19T21:00:00.000Z",
+                            "Genre": "ethno-tunes",
+                            "Album": "Once bitten"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "Jail on My Mind",
+                            "Released": "2019-05-30T21:00:00.000Z",
+                            "Genre": "Crunk reggaeton",
+                            "Album": "Once bitten"
+                        },
+                        {
+                            "Number": 7,
+                            "Title": "Amazing Blues",
+                            "Released": "2019-05-28T21:00:00.000Z",
+                            "Genre": "mystical parody-bap ",
+                            "Album": "Once bitten"
+                        },
+                        {
+                            "Number": 8,
+                            "Title": "Goody Two Iron Filings",
+                            "Released": "2019-07-03T21:00:00.000Z",
+                            "Genre": "Electro house Electropop",
+                            "Album": "Once bitten"
+                        },
+                        {
+                            "Number": 9,
+                            "Title": "I Love in Your Arms",
+                            "Released": "2019-06-06T21:00:00.000Z",
+                            "Genre": "R&B",
+                            "Album": "Once bitten"
+                        },
+                        {
+                            "Number": 10,
+                            "Title": "Truly Madly Amazing",
+                            "Released": "2019-09-11T21:00:00.000Z",
+                            "Genre": "ethno-tunes",
+                            "Album": "Once bitten"
+                        }
+                    ]
+                },
+                {
+                    "Album": "Your graciousness",
+                    "LaunchDate": "2004-11-16T22:00:00.000Z",
+                    "BillboardReview": 69,
+                    "USBillboard200": 30,
+                    "Artist": "Izabella Tabakova",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "We Shall Tickle",
+                            "Released": "2019-08-30T21:00:00.000Z",
+                            "Genre": "old emo-garage ",
+                            "Album": "Your graciousness"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Snail Boogie",
+                            "Released": "2019-06-13T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Your graciousness"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Amazing Liz",
+                            "Released": "2019-10-14T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Your graciousness"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "When Sexy Aardvarks Cry",
+                            "Released": "2019-09-30T21:00:00.000Z",
+                            "Genre": "whimsical comedy-grass ",
+                            "Album": "Your graciousness"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Stand By Dave",
+                            "Released": "2019-08-17T21:00:00.000Z",
+                            "Genre": "unblack electronic-trip-hop",
+                            "Album": "Your graciousness"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "The Golf Course is Your Land",
+                            "Released": "2019-04-01T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Your graciousness"
+                        },
+                        {
+                            "Number": 7,
+                            "Title": "Where Have All the Men Gone?",
+                            "Released": "2019-04-28T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Your graciousness"
+                        },
+                        {
+                            "Number": 8,
+                            "Title": "Rhythm of the Leg",
+                            "Released": "2019-08-04T21:00:00.000Z",
+                            "Genre": "ethno-tunes",
+                            "Album": "Your graciousness"
+                        },
+                        {
+                            "Number": 9,
+                            "Title": "Baby, I Need Your Hats",
+                            "Released": "2019-12-04T22:00:00.000Z",
+                            "Genre": "neuro-tunes",
+                            "Album": "Your graciousness"
+                        },
+                        {
+                            "Number": 10,
+                            "Title": "Stand by Your Cat",
+                            "Released": "2019-07-24T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Your graciousness"
+                        }
+                    ]
+                },
+                {
+                    "Album": "Dark matters",
+                    "LaunchDate": "2002-11-02T22:00:00.000Z",
+                    "BillboardReview": 79,
+                    "USBillboard200": 85,
+                    "Artist": "Izabella Tabakova",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "The Sun",
+                            "Released": "2002-10-30T22:00:00.000Z",
+                            "Genre": "old emo-garage ",
+                            "Album": "Dark matters"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "I will survive",
+                            "Released": "2002-11-02T22:00:00.000Z",
+                            "Genre": "old emo-garage ",
+                            "Album": "Dark matters"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Try",
+                            "Released": "2002-11-03T22:00:00.000Z",
+                            "Genre": "old emo-garage ",
+                            "Album": "Dark matters"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Miracle",
+                            "Released": "2002-11-04T22:00:00.000Z",
+                            "Genre": "old emo-garage ",
+                            "Album": "Dark matters"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 6,
+            "Artist": "Nguyễn Diệp Chi",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/nguyen.jpg",
+            "Debut": 1992,
+            "GrammyNominations": 4,
+            "GrammyAwards": 2,
+            "HasGrammyAward": true,
+            "Albums": [
+                {
+                    "Album": "Library of liberty",
+                    "LaunchDate": "2003-12-21T22:00:00.000Z",
+                    "BillboardReview": 93,
+                    "USBillboard200": 5,
+                    "Artist": "Nguyễn Diệp Chi",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Book of love",
+                            "Released": "2003-12-30T22:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Library of liberty"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Commitment",
+                            "Released": "2003-12-31T22:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Library of liberty"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Satisfaction",
+                            "Released": "2003-12-31T22:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Library of liberty"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Obsession",
+                            "Released": "2003-12-31T22:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Library of liberty"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Oblivion",
+                            "Released": "2004-01-01T22:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Library of liberty"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "Energy",
+                            "Released": "2004-01-02T22:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Library of liberty"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 7,
+            "Artist": "Eva Lee",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/eva.jpg",
+            "Debut": 2008,
+            "GrammyNominations": 2,
+            "GrammyAwards": 0,
+            "HasGrammyAward": false,
+            "Albums": [
+                {
+                    "Album": "Just a tease",
+                    "LaunchDate": "2001-05-02T21:00:00.000Z",
+                    "BillboardReview": 91,
+                    "USBillboard200": 29,
+                    "Artist": "Eva Lee",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "We shall see",
+                            "Released": "2001-05-02T21:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Just a tease"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Hopeless",
+                            "Released": "2001-05-03T21:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Just a tease"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Ignorant",
+                            "Released": "2001-05-03T21:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Just a tease"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Dance",
+                            "Released": "2019-05-04T21:00:00.000Z",
+                            "Genre": "Metal",
+                            "Album": "Just a tease"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Fire",
+                            "Released": "2019-05-05T21:00:00.000Z",
+                            "Genre": "Metal",
+                            "Album": "Just a tease"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 8,
+            "Artist": "Siri Jakobsson",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/siri.jpg",
+            "Debut": 1990,
+            "GrammyNominations": 2,
+            "GrammyAwards": 8,
+            "HasGrammyAward": true,
+            "Tours": [
+                {
+                    "Tour": "Basket case",
+                    "StartedOn": "Jan 07",
+                    "Location": "Europe, Asia",
+                    "Headliner": "NO",
+                    "TouredBy": "Siri Jakobsson"
+                },
+                {
+                    "Tour": "The bigger fish",
+                    "StartedOn": "Dec 07",
+                    "Location": "United States, Europe",
+                    "Headliner": "YES",
+                    "TouredBy": "Siri Jakobsson"
+                },
+                {
+                    "Tour": "Missed the boat",
+                    "StartedOn": "Jun 09",
+                    "Location": "Europe, Asia",
+                    "Headliner": "NO",
+                    "TouredBy": "Siri Jakobsson"
+                },
+                {
+                    "Tour": "Equivalent exchange",
+                    "StartedOn": "Feb 06",
+                    "Location": "United States, Europe",
+                    "Headliner": "YES",
+                    "TouredBy": "Siri Jakobsson"
+                },
+                {
+                    "Tour": "Damage control",
+                    "StartedOn": "Oct 11",
+                    "Location": "Australia, United States",
+                    "Headliner": "NO",
+                    "TouredBy": "Siri Jakobsson"
+                }
+            ],
+            "Albums": [
+                {
+                    "Album": "Under the bus",
+                    "LaunchDate": "2000-05-13T21:00:00.000Z",
+                    "BillboardReview": 67,
+                    "USBillboard200": 67,
+                    "Artist": "Siri Jakobsson",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Jack Broke My Heart At Tesco's",
+                            "Released": "2020-01-18T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Cat Deep, Hats High",
+                            "Released": "2019-12-04T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "In Snail We Trust",
+                            "Released": "2019-05-30T21:00:00.000Z",
+                            "Genre": "hardcore opera",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Liz's Waiting",
+                            "Released": "2019-07-21T21:00:00.000Z",
+                            "Genre": "emotional C-jam ",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Lifeless Blues",
+                            "Released": "2019-06-13T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "I Spin",
+                            "Released": "2019-03-25T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 7,
+                            "Title": "Ring of Rock",
+                            "Released": "2019-12-11T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 8,
+                            "Title": "Livin' on a Rock",
+                            "Released": "2019-04-16T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 9,
+                            "Title": "Your Lifeless Heart",
+                            "Released": "2019-09-14T21:00:00.000Z",
+                            "Genre": "adult calypso-industrial",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 10,
+                            "Title": "The High Street on My Mind",
+                            "Released": "2019-11-10T22:00:00.000Z",
+                            "Genre": "calypso and mariachi",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 11,
+                            "Title": "Behind Ugly Curtains",
+                            "Released": "2019-05-07T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 12,
+                            "Title": "Where Have All the Curtains Gone?",
+                            "Released": "2019-06-27T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 13,
+                            "Title": "Ghost in My Apple",
+                            "Released": "2019-12-13T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Under the bus"
+                        },
+                        {
+                            "Number": 14,
+                            "Title": "I Chatter",
+                            "Released": "2019-11-29T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Under the bus"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 9,
+            "Artist": "Pablo Cambeiro",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/pablo.jpg",
+            "Debut": 2011,
+            "GrammyNominations": 5,
+            "GrammyAwards": 0,
+            "HasGrammyAward": false,
+            "Tours": [
+                {
+                    "Tour": "Beads",
+                    "StartedOn": "May 11",
+                    "Location": "Worldwide",
+                    "Headliner": "NO",
+                    "TouredBy": "Pablo Cambeiro"
+                },
+                {
+                    "Tour": "Concept art",
+                    "StartedOn": "Dec 18",
+                    "Location": "United States",
+                    "Headliner": "YES",
+                    "TouredBy": "Pablo Cambeiro"
+                },
+                {
+                    "Tour": "Glass shoe",
+                    "StartedOn": "Jan 20",
+                    "Location": "Worldwide",
+                    "Headliner": "YES",
+                    "TouredBy": "Pablo Cambeiro"
+                },
+                {
+                    "Tour": "Pushing buttons",
+                    "StartedOn": "Feb 15",
+                    "Location": "Europe, Asia",
+                    "Headliner": "NO",
+                    "TouredBy": "Pablo Cambeiro"
+                },
+                {
+                    "Tour": "Dark matters",
+                    "StartedOn": "Jan 04",
+                    "Location": "Australia, United States",
+                    "Headliner": "YES",
+                    "TouredBy": "Pablo Cambeiro"
+                },
+                {
+                    "Tour": "Greener grass",
+                    "StartedOn": "Sep 09",
+                    "Location": "United States, Europe",
+                    "Headliner": "NO",
+                    "TouredBy": "Pablo Cambeiro"
+                },
+                {
+                    "Tour": "Apparatus",
+                    "StartedOn": "Nov 16",
+                    "Location": "Europe",
+                    "Headliner": "NO",
+                    "TouredBy": "Pablo Cambeiro"
+                }
+            ],
+            "Albums": [
+                {
+                    "Album": "Fluke",
+                    "LaunchDate": "2017-08-03T21:00:00.000Z",
+                    "BillboardReview": 93,
+                    "USBillboard200": 98,
+                    "Artist": "Pablo Cambeiro",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Silence",
+                            "Released": "2017-08-24T21:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Fluke"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Nothing matters anymore",
+                            "Released": "2017-08-24T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Fluke"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Everything wrong with me",
+                            "Released": "2017-08-24T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Fluke"
+                        }
+                    ]
+                },
+                {
+                    "Album": "Crowd control",
+                    "LaunchDate": "2003-08-25T21:00:00.000Z",
+                    "BillboardReview": 68,
+                    "USBillboard200": 84,
+                    "Artist": "Pablo Cambeiro",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "My Bed on My Mind",
+                            "Released": "2019-03-24T22:00:00.000Z",
+                            "Genre": "ethno-tunes",
+                            "Album": "Crowd control"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Bright Blues",
+                            "Released": "2019-09-27T21:00:00.000Z",
+                            "Genre": "neuro-tunes",
+                            "Album": "Crowd control"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Sail, Sail, Sail!",
+                            "Released": "2019-03-04T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Crowd control"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Hotel My Bed",
+                            "Released": "2019-03-21T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Crowd control"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Gonna Make You Mash",
+                            "Released": "2019-05-17T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Crowd control"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "Straight Outta America",
+                            "Released": "2020-01-15T22:00:00.000Z",
+                            "Genre": "hardcore opera",
+                            "Album": "Crowd control"
+                        },
+                        {
+                            "Number": 7,
+                            "Title": "I Drive",
+                            "Released": "2019-02-22T22:00:00.000Z",
+                            "Genre": "emotional C-jam ",
+                            "Album": "Crowd control"
+                        },
+                        {
+                            "Number": 8,
+                            "Title": "Like a Teddy",
+                            "Released": "2019-08-30T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Crowd control"
+                        },
+                        {
+                            "Number": 9,
+                            "Title": "Teddy Boogie",
+                            "Released": "2019-11-29T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Crowd control"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 10,
+            "Artist": "Athar Malakooti",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/athar.jpg",
+            "Debut": 2017,
+            "GrammyNominations": 0,
+            "GrammyAwards": 0,
+            "HasGrammyAward": false,
+            "Albums": [
+                {
+                    "Album": "Pushing up daisies",
+                    "LaunchDate": "2016-02-23T22:00:00.000Z",
+                    "BillboardReview": 74,
+                    "USBillboard200": 77,
+                    "Artist": "Athar Malakooti",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Actions",
+                            "Released": "2016-02-24T22:00:00.000Z",
+                            "Genre": "ethno-tunes",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Blinding lights",
+                            "Released": "2016-02-27T22:00:00.000Z",
+                            "Genre": "neuro-tunes",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "I want more",
+                            "Released": "2016-03-04T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Pushing up daisies"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "House by the lake",
+                            "Released": "2016-03-21T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Pushing up daisies"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 11,
+            "Artist": "Marti Valencia",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/marti.jpg",
+            "Debut": 2004,
+            "GrammyNominations": 1,
+            "GrammyAwards": 1,
+            "HasGrammyAward": true,
+            "Tours": [
+                {
+                    "Tour": "Cat eat cat world",
+                    "StartedOn": "Sep 00",
+                    "Location": "Worldwide",
+                    "Headliner": "YES",
+                    "TouredBy": "Marti Valencia"
+                },
+                {
+                    "Tour": "Final straw",
+                    "StartedOn": "Sep 06",
+                    "Location": "United States, Europe",
+                    "Headliner": "NO",
+                    "TouredBy": "Marti Valencia"
+                }
+            ],
+            "Albums": [
+                {
+                    "Album": "Nemesis",
+                    "LaunchDate": "2004-06-29T21:00:00.000Z",
+                    "BillboardReview": 94,
+                    "USBillboard200": 9,
+                    "Artist": "Marti Valencia",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Love in motion",
+                            "Released": "2004-06-24T21:00:00.000Z",
+                            "Genre": "ethno-tunes",
+                            "Album": "Nemesis"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "The picture",
+                            "Released": "2004-06-27T21:00:00.000Z",
+                            "Genre": "neuro-tunes",
+                            "Album": "Nemesis"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Flowers",
+                            "Released": "2004-07-04T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Nemesis"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Regret",
+                            "Released": "2004-08-21T21:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Nemesis"
+                        }
+                    ]
+                },
+                {
+                    "Album": "First chance",
+                    "LaunchDate": "2019-01-06T22:00:00.000Z",
+                    "BillboardReview": 96,
+                    "USBillboard200": 19,
+                    "Artist": "Marti Valencia",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "My Name is Jason",
+                            "Released": "2019-07-11T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Amazing Andy",
+                            "Released": "2019-03-04T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "The Number of your Knight",
+                            "Released": "2019-12-03T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "I Sail",
+                            "Released": "2019-03-02T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Goody Two Hands",
+                            "Released": "2019-10-10T21:00:00.000Z",
+                            "Genre": "Electro house Electropop",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "Careful With That Knife",
+                            "Released": "2019-12-17T22:00:00.000Z",
+                            "Genre": "R&B",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 7,
+                            "Title": "Four Single Ants",
+                            "Released": "2020-01-17T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 8,
+                            "Title": "Kiss Forever",
+                            "Released": "2019-08-09T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 9,
+                            "Title": "Rich's Waiting",
+                            "Released": "2019-03-14T22:00:00.000Z",
+                            "Genre": "Synth-pop R&B",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 10,
+                            "Title": "Japan is Your Land",
+                            "Released": "2019-03-06T22:00:00.000Z",
+                            "Genre": "ethno-tunes",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 11,
+                            "Title": "Pencils in My Banana",
+                            "Released": "2019-06-20T21:00:00.000Z",
+                            "Genre": "Crunk reggaeton",
+                            "Album": "First chance"
+                        },
+                        {
+                            "Number": 12,
+                            "Title": "I Sail in Your Arms",
+                            "Released": "2019-04-29T21:00:00.000Z",
+                            "Genre": "Synth-pop R&B",
+                            "Album": "First chance"
+                        }
+                    ]
+                },
+                {
+                    "Album": "God's advocate",
+                    "LaunchDate": "2007-04-28T21:00:00.000Z",
+                    "BillboardReview": 66,
+                    "USBillboard200": 37,
+                    "Artist": "Marti Valencia",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Destiny",
+                            "Released": "2007-05-06T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "God's advocate"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "I am the chosen one",
+                            "Released": "2007-05-07T21:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "God's advocate"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "New me",
+                            "Released": "2007-05-08T21:00:00.000Z",
+                            "Genre": "Dance-pop R&B",
+                            "Album": "God's advocate"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Miss you",
+                            "Released": "2007-05-09T21:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "God's advocate"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "Turn back the time",
+                            "Released": "2007-05-20T21:00:00.000Z",
+                            "Genre": "Dance-pop EDM",
+                            "Album": "God's advocate"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "Let us have fun",
+                            "Released": "2007-05-31T21:00:00.000Z",
+                            "Genre": "Dance-pop EDM",
+                            "Album": "God's advocate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 12,
+            "Artist": "Alicia Stanger",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/alicia.jpg",
+            "Debut": 2010,
+            "GrammyNominations": 1,
+            "GrammyAwards": 0,
+            "HasGrammyAward": false,
+            "Albums": [
+                {
+                    "Album": "Forever alone",
+                    "LaunchDate": "2005-11-02T22:00:00.000Z",
+                    "BillboardReview": 82,
+                    "USBillboard200": 7,
+                    "Artist": "Alicia Stanger",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Brothers",
+                            "Released": "2005-10-24T21:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Forever alone"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Alone",
+                            "Released": "2005-10-27T21:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Forever alone"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "I will go on",
+                            "Released": "2005-11-04T22:00:00.000Z",
+                            "Genre": "Heavy metal",
+                            "Album": "Forever alone"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Horses",
+                            "Released": "2005-12-21T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Forever alone"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ID": 13,
+            "Artist": "Peter Taylor",
+            "Photo": "https://www.infragistics.com/angular-demos-lob/assets/images/hgrid/peter.jpg",
+            "Debut": 2005,
+            "GrammyNominations": 0,
+            "GrammyAwards": 2,
+            "HasGrammyAward": true,
+            "Tours": [
+                {
+                    "Tour": "Love",
+                    "StartedOn": "Jun 04",
+                    "Location": "Europe, Asia",
+                    "Headliner": "YES",
+                    "TouredBy": "Peter Taylor"
+                },
+                {
+                    "Tour": "Fault of treasures",
+                    "StartedOn": "Oct 13",
+                    "Location": "North America",
+                    "Headliner": "NO",
+                    "TouredBy": "Peter Taylor"
+                },
+                {
+                    "Tour": "For eternity",
+                    "StartedOn": "Mar 05",
+                    "Location": "United States",
+                    "Headliner": "YES",
+                    "TouredBy": "Peter Taylor"
+                },
+                {
+                    "Tour": "Time flies",
+                    "StartedOn": "Jun 03",
+                    "Location": "North America",
+                    "Headliner": "NO",
+                    "TouredBy": "Peter Taylor"
+                },
+                {
+                    "Tour": "Highest difficulty",
+                    "StartedOn": "Nov 01",
+                    "Location": "Worldwide",
+                    "Headliner": "YES",
+                    "TouredBy": "Peter Taylor"
+                },
+                {
+                    "Tour": "Sleeping dogs",
+                    "StartedOn": "May 04",
+                    "Location": "United States, Europe",
+                    "Headliner": "NO",
+                    "TouredBy": "Peter Taylor"
+                }
+            ],
+            "Albums": [
+                {
+                    "Album": "Decisions decisions",
+                    "LaunchDate": "2008-04-09T21:00:00.000Z",
+                    "BillboardReview": 85,
+                    "USBillboard200": 35,
+                    "Artist": "Peter Taylor",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "Now that I am alone",
+                            "Released": "2008-04-24T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Decisions decisions"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "Hopefully",
+                            "Released": "2008-04-25T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Decisions decisions"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Wonderful life",
+                            "Released": "2008-05-04T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Decisions decisions"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Amazing world",
+                            "Released": "2008-12-21T22:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Decisions decisions"
+                        }
+                    ]
+                },
+                {
+                    "Album": "Climate changed",
+                    "LaunchDate": "2015-06-19T21:00:00.000Z",
+                    "BillboardReview": 66,
+                    "USBillboard200": 89,
+                    "Artist": "Peter Taylor",
+                    "Songs": [
+                        {
+                            "Number": 1,
+                            "Title": "This is how I am now",
+                            "Released": "2015-06-21T21:00:00.000Z",
+                            "Genre": "Hip-hop",
+                            "Album": "Climate changed"
+                        },
+                        {
+                            "Number": 2,
+                            "Title": "I feel",
+                            "Released": "2015-06-25T21:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Climate changed"
+                        },
+                        {
+                            "Number": 3,
+                            "Title": "Do I want to know",
+                            "Released": "2015-07-04T21:00:00.000Z",
+                            "Genre": "rap-hop",
+                            "Album": "Climate changed"
+                        },
+                        {
+                            "Number": 4,
+                            "Title": "Natural love",
+                            "Released": "2015-07-21T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Climate changed"
+                        },
+                        {
+                            "Number": 5,
+                            "Title": "I will help",
+                            "Released": "2015-07-21T21:00:00.000Z",
+                            "Genre": "*",
+                            "Album": "Climate changed"
+                        },
+                        {
+                            "Number": 6,
+                            "Title": "No matter what",
+                            "Released": "2015-07-21T21:00:00.000Z",
+                            "Genre": "hip-hop",
+                            "Album": "Climate changed"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
