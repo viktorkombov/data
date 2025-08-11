@@ -5365,23 +5365,23 @@
         ],
         "type": "object",
         "properties": {
-          "customerIdMod": {
+          "customerId": {
             "type": "string",
             "nullable": true,
             "readOnly": true
           },
-          "companyNameMod": {
+          "companyName": {
             "maxLength": 100,
             "minLength": 0,
             "type": "string"
           },
-          "contactNameMod": {
+          "contactName": {
             "maxLength": 50,
             "minLength": 0,
             "type": "string",
             "nullable": true
           },
-          "contactTitleMod": {
+          "contactTitle": {
             "maxLength": 50,
             "minLength": 0,
             "type": "string",
