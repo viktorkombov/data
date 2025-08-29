@@ -5375,7 +5375,7 @@
             "minLength": 0,
             "type": "string"
           },
-          "contactNameMod": {
+          "contactName": {
             "maxLength": 50,
             "minLength": 0,
             "type": "string",
