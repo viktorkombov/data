@@ -5381,7 +5381,7 @@
             "type": "string",
             "nullable": true
           },
-          "contactTitle": {
+          "contactTitleMod": {
             "maxLength": 50,
             "minLength": 0,
             "type": "string",
